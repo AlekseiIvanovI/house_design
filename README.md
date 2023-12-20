@@ -1,3 +1,5 @@
+![Screenshot 2023-12-19 224231](https://github.com/AlekseiIvanovI/house_design/assets/149438366/410252ea-2363-4be7-a3b0-4be22771c0a4)
+
 # House Design Website
 
 This repository contains the source code and assets for a House Design website. The website serves as a platform to showcase various house designs, architectural styles, and interior concepts to inspire homeowners and architects.
